@@ -4,4 +4,4 @@ Exercice: Afficher le contenu de l'url: https://assos.utc.fr/api/v1 en asynchron
 
 Pour run l'appli:
 
-npm install
+npm install (Dans le répertoire my-app)
