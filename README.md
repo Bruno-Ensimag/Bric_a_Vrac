@@ -1,3 +1,3 @@
 # Bric_a_Vrac
 
-Exercice asynchrone
+Exercice asynchrone de Samy
